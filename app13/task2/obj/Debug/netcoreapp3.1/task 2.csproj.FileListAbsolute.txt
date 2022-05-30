@@ -1,0 +1,26 @@
+C:\Users\U S E R\OneDrive\Рабочий стол\task13\task 2\bin\Debug\netcoreapp3.1\task 2.exe
+C:\Users\U S E R\OneDrive\Рабочий стол\task13\task 2\bin\Debug\netcoreapp3.1\task 2.deps.json
+C:\Users\U S E R\OneDrive\Рабочий стол\task13\task 2\bin\Debug\netcoreapp3.1\task 2.runtimeconfig.json
+C:\Users\U S E R\OneDrive\Рабочий стол\task13\task 2\bin\Debug\netcoreapp3.1\task 2.runtimeconfig.dev.json
+C:\Users\U S E R\OneDrive\Рабочий стол\task13\task 2\bin\Debug\netcoreapp3.1\task 2.dll
+C:\Users\U S E R\OneDrive\Рабочий стол\task13\task 2\bin\Debug\netcoreapp3.1\task 2.pdb
+C:\Users\U S E R\OneDrive\Рабочий стол\task13\task 2\obj\Debug\netcoreapp3.1\task 2.csprojAssemblyReference.cache
+C:\Users\U S E R\OneDrive\Рабочий стол\task13\task 2\obj\Debug\netcoreapp3.1\task 2.AssemblyInfoInputs.cache
+C:\Users\U S E R\OneDrive\Рабочий стол\task13\task 2\obj\Debug\netcoreapp3.1\task 2.AssemblyInfo.cs
+C:\Users\U S E R\OneDrive\Рабочий стол\task13\task 2\obj\Debug\netcoreapp3.1\task 2.csproj.CoreCompileInputs.cache
+C:\Users\U S E R\OneDrive\Рабочий стол\task13\task 2\obj\Debug\netcoreapp3.1\task 2.dll
+C:\Users\U S E R\OneDrive\Рабочий стол\task13\task 2\obj\Debug\netcoreapp3.1\task 2.pdb
+C:\Users\U S E R\OneDrive\Рабочий стол\task13\task 2\obj\Debug\netcoreapp3.1\task 2.genruntimeconfig.cache
+C:\Users\U S E R\OneDrive\Рабочий стол\task13\task2\bin\Debug\netcoreapp3.1\task 2.exe
+C:\Users\U S E R\OneDrive\Рабочий стол\task13\task2\bin\Debug\netcoreapp3.1\task 2.deps.json
+C:\Users\U S E R\OneDrive\Рабочий стол\task13\task2\bin\Debug\netcoreapp3.1\task 2.runtimeconfig.json
+C:\Users\U S E R\OneDrive\Рабочий стол\task13\task2\bin\Debug\netcoreapp3.1\task 2.runtimeconfig.dev.json
+C:\Users\U S E R\OneDrive\Рабочий стол\task13\task2\bin\Debug\netcoreapp3.1\task 2.dll
+C:\Users\U S E R\OneDrive\Рабочий стол\task13\task2\bin\Debug\netcoreapp3.1\task 2.pdb
+C:\Users\U S E R\OneDrive\Рабочий стол\task13\task2\obj\Debug\netcoreapp3.1\task 2.csprojAssemblyReference.cache
+C:\Users\U S E R\OneDrive\Рабочий стол\task13\task2\obj\Debug\netcoreapp3.1\task 2.AssemblyInfoInputs.cache
+C:\Users\U S E R\OneDrive\Рабочий стол\task13\task2\obj\Debug\netcoreapp3.1\task 2.AssemblyInfo.cs
+C:\Users\U S E R\OneDrive\Рабочий стол\task13\task2\obj\Debug\netcoreapp3.1\task 2.csproj.CoreCompileInputs.cache
+C:\Users\U S E R\OneDrive\Рабочий стол\task13\task2\obj\Debug\netcoreapp3.1\task 2.dll
+C:\Users\U S E R\OneDrive\Рабочий стол\task13\task2\obj\Debug\netcoreapp3.1\task 2.pdb
+C:\Users\U S E R\OneDrive\Рабочий стол\task13\task2\obj\Debug\netcoreapp3.1\task 2.genruntimeconfig.cache

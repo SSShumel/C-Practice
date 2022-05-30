@@ -1,0 +1,12 @@
+C:\Users\U S E R\OneDrive\Рабочий стол\Учебная практика C#\app14\task 11\bin\Debug\netcoreapp3.1\task 11.exe
+C:\Users\U S E R\OneDrive\Рабочий стол\Учебная практика C#\app14\task 11\bin\Debug\netcoreapp3.1\task 11.deps.json
+C:\Users\U S E R\OneDrive\Рабочий стол\Учебная практика C#\app14\task 11\bin\Debug\netcoreapp3.1\task 11.runtimeconfig.json
+C:\Users\U S E R\OneDrive\Рабочий стол\Учебная практика C#\app14\task 11\bin\Debug\netcoreapp3.1\task 11.runtimeconfig.dev.json
+C:\Users\U S E R\OneDrive\Рабочий стол\Учебная практика C#\app14\task 11\bin\Debug\netcoreapp3.1\task 11.dll
+C:\Users\U S E R\OneDrive\Рабочий стол\Учебная практика C#\app14\task 11\bin\Debug\netcoreapp3.1\task 11.pdb
+C:\Users\U S E R\OneDrive\Рабочий стол\Учебная практика C#\app14\task 11\obj\Debug\netcoreapp3.1\task 11.AssemblyInfoInputs.cache
+C:\Users\U S E R\OneDrive\Рабочий стол\Учебная практика C#\app14\task 11\obj\Debug\netcoreapp3.1\task 11.AssemblyInfo.cs
+C:\Users\U S E R\OneDrive\Рабочий стол\Учебная практика C#\app14\task 11\obj\Debug\netcoreapp3.1\task 11.csproj.CoreCompileInputs.cache
+C:\Users\U S E R\OneDrive\Рабочий стол\Учебная практика C#\app14\task 11\obj\Debug\netcoreapp3.1\task 11.dll
+C:\Users\U S E R\OneDrive\Рабочий стол\Учебная практика C#\app14\task 11\obj\Debug\netcoreapp3.1\task 11.pdb
+C:\Users\U S E R\OneDrive\Рабочий стол\Учебная практика C#\app14\task 11\obj\Debug\netcoreapp3.1\task 11.genruntimeconfig.cache
