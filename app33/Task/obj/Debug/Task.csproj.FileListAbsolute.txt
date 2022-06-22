@@ -1,0 +1,10 @@
+C:\Users\vlads\Desktop\day34\Day34\Task\bin\Debug\Data\DBTur_firm.mdf
+C:\Users\vlads\Desktop\day34\Day34\Task\bin\Debug\Data\DBTur_firm_log.ldf
+C:\Users\vlads\Desktop\day34\Day34\Task\obj\Debug\Task.csproj.AssemblyReference.cache
+C:\Users\vlads\Desktop\day34\Day34\Task\obj\Debug\Task.csproj.SuggestedBindingRedirects.cache
+C:\Users\vlads\Desktop\day34\Day34\Task\obj\Debug\_30_1.Form1.resources
+C:\Users\vlads\Desktop\day34\Day34\Task\obj\Debug\_30_1.Properties.Resources.resources
+C:\Users\vlads\Desktop\day34\Day34\Task\obj\Debug\Task.csproj.GenerateResource.cache
+C:\Users\vlads\Desktop\day34\Day34\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+C:\Users\vlads\Desktop\day34\Day34\Task\obj\Debug\30-1.exe
+C:\Users\vlads\Desktop\day34\Day34\Task\obj\Debug\30-1.pdb
